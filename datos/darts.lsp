@@ -1,0 +1,72 @@
+dataset = Darts
+begin description
+Frequencies of dart throw error distances for 590 throws
+end description
+begin variables
+Col 0 = dist = Distance from target (mm)
+Col 1 = freq = Frequency of error
+end variables
+begin data
+(
+0 3 
+2 2 
+3 5 
+4 10 
+5 7 
+6 3 
+7 12 
+8 14 
+9 9 
+10 11 
+11 14 
+12 13 
+13 32 
+14 19 
+15 20 
+16 9 
+17 18 
+18 23 
+19 25 
+20 21 
+21 15 
+22 19 
+23 13 
+24 11 
+25 9 
+26 21 
+27 16 
+28 18 
+29 9 
+30 14 
+31 13 
+32 11 
+33 11 
+34 11 
+35 16 
+36 13 
+37 5 
+38 9 
+39 6 
+40 5 
+41 7 
+42 7 
+43 11 
+44 7 
+45 5 
+46 3 
+47 1 
+48 3 
+49 1 
+50 4 
+51 4 
+52 3 
+53 4 
+54 1 
+55 1 
+56 4 
+57 3 
+58 2 
+61 1 
+62 2 
+66 1 
+)
